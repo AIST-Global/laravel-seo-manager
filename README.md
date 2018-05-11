@@ -1,13 +1,12 @@
 # Manager
-[![Build Status](https://travis-ci.org/VaheSaroyan/seomanager.svg?branch=master)](https://travis-ci.org/VaheSaroyan/seomanager.svg?branch=master)
 > Statistics
-[![Latest Stable Version](https://poser.pugx.org/seo/manager/v/stable)](https://packagist.org/packages/seo/manager)
-[![Total Downloads](https://poser.pugx.org/seo/manager/downloads)](https://packagist.org/packages/seo/manager)
-[![License](https://poser.pugx.org/seo/manager/license)](https://packagist.org/packages/seo/manager)
-[![Latest Unstable Version](https://poser.pugx.org/seo/manager/v/unstable)](https://packagist.org/packages/seo/manager)
-[![Monthly Downloads](https://poser.pugx.org/seo/manager/d/monthly)](https://packagist.org/packages/seo/manager)
-[![Daily Downloads](https://poser.pugx.org/seo/manager/d/daily)](https://packagist.org/packages/seo/manager)
-
+[![Latest Stable Version](https://poser.pugx.org/aistglobal/seomanager/v/stable)](https://packagist.org/packages/aistglobal/seomanager)[![Total Downloads](https://poser.pugx.org/seo/manager/downloads)](https://packagist.org/packages/seo/manager)
+[![Total Downloads](https://poser.pugx.org/aistglobal/seomanager/downloads)](https://packagist.org/packages/aistglobal/seomanager)
+[![Latest Unstable Version](https://poser.pugx.org/aistglobal/seomanager/v/unstable)](https://packagist.org/packages/aistglobal/seomanager)
+[![License](https://poser.pugx.org/aistglobal/seomanager/license)](https://packagist.org/packages/aistglobal/seomanager)
+[![Monthly Downloads](https://poser.pugx.org/aistglobal/seomanager/d/monthly)](https://packagist.org/packages/aistglobal/seomanager)
+[![Daily Downloads](https://poser.pugx.org/aistglobal/seomanager/d/daily)](https://packagist.org/packages/aistglobal/seomanager)
+[![composer.lock](https://poser.pugx.org/aistglobal/seomanager/composerlock)](https://packagist.org/packages/aistglobal/seomanager)
 
 ## Structure
 
@@ -23,7 +22,7 @@ vendor/
 ### 1 - Dependency
 The first step is using composer to install the package and automatically update your `composer.json` file, you can do this by running:
 ```shell
-composer require seo/manager
+composer require aistglobal/seomanager
 ```
 > **Note**: If you are using Laravel 5.5, the steps 2 and 3, for providers and aliases, are unnecessaries. SeoManager supports Laravel new [Package Discovery](https://laravel.com/docs/5.5/packages#package-discovery).
 
