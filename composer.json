@@ -27,7 +27,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
-        "illuminate/support": "~5.1",
+        "illuminate/support": "^6.0",
         "php": "~5.6|^7.3",
         "laravelcollective/html": "^5.4",
         "artesaos/seotools": "^0.10.0",
